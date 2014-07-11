@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
+    <g id="Shapes">
+        <path fill="#EF3C58" d="M500,488.004c0,6.625-5.379,11.996-12.012,11.996H12.008C5.376,500,0,494.629,0,488.004V11.996
+            C0,5.371,5.376,0,12.008,0H487.99C494.621,0,500,5.371,500,11.996V488.004z"/>
+        <rect x="-38.208" y="315.935" transform="matrix(-0.9397 0.342 -0.342 -0.9397 351.2742 640.0511)" fill="#FFFFFF" width="314.832" height="70.121"/>
+        <ellipse transform="matrix(0.9397 -0.342 0.342 0.9397 -85.523 109.2846)" fill="#FFFFFF" cx="267.131" cy="297.156" rx="79.987" ry="69.999"/>
+        <rect x="285.264" y="229.852" transform="matrix(-0.9397 0.342 -0.342 -0.9397 688.9816 388.217)" fill="#FFFFFF" width="50" height="50"/>
+	<path fill="#EF3C58" d="M174.867,277.528c-13.224-36.332,9.71-78.027,51.221-93.136c41.512-15.109,85.881,2.09,99.104,38.421
+            c13.222,36.328-9.709,78.027-51.221,93.135C232.461,331.059,188.09,313.855,174.867,277.528z"/>
+        <ellipse transform="matrix(-0.9397 0.342 -0.342 -0.9397 521.3058 314.4512)" fill="#FFFFFF" cx="232.929" cy="203.187" rx="79.987" ry="70"/>
+        <rect x="223.406" y="114.116" transform="matrix(0.9397 -0.342 0.342 0.9397 -28.0244 139.4149)" fill="#FFFFFF" width="315.834" height="70.12"/>
+    </g>
+</svg>
